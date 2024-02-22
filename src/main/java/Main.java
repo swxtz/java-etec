@@ -1,4 +1,4 @@
-class main{
+class Main{
     public static void main(String args[]){
         // Cria uma instancia de uma nova pessoa.
         Pessoa p1 = new Pessoa();
