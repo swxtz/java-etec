@@ -4,10 +4,10 @@ class main{
         Pessoa p1 = new Pessoa();
 
         // Define variaveis de dados de uma nova pessoa.
-        p1.rg = "5300772-5";
-        p1.idade = "19 Anos";
-        p1.endereço = "Rua Fava, 02";
-        p1.nome = "Maria Rita Rezende";
+        p1.rg = "40028922-0";
+        p1.idade = "22 Anos";
+        p1.endereço = "Rua Estevâo benicio, 02";
+        p1.nome = "José Alvares Cabaral";
 
         // Exibe as variaveis de dados de uma pessoa.
         System.out.println(p1.endereço);
